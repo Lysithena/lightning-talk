@@ -127,7 +127,9 @@ theme
   * https://i3wm.org/
 * Manjaro i3 Editionインストールから僕おすすめカスタマイズまで
   * https://qiita.com/Hiroya_W/items/99c73dd29e88762b2d5c
-* このスライドのMarkDown(発表原稿付き)+pdf
+* このスライドのMarkDown(発表原稿付き)
+  * https://github.com/Lysithena/lightning-talk
+    * 大人の事情により画像とうさぎはいません
 
 # 参考文献&i3wmおすすめ情報
 * GTK+のAdapta-Noktoが気に入りすぎてPolybarテーマを作った
